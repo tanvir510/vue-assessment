@@ -1,0 +1,280 @@
+{
+  "flow": {
+    "callToAction": {
+      "title": "Shop Now"
+    },
+    "paginationPrompt": {
+      "title": "Show More"
+    },
+    "pages": [
+      {
+        "selectionType": "multi",
+        "cardType": "iconAndText",
+        "cardFontColor": "#000000",
+        "cardBackgroundColor": "#ffffff",
+        "showCardBackground": false,
+        "backgroundColor": "#ffffff",
+        "selectedBorderColor": "#000000",
+        "title": {
+          "text": "HOW DO YOU MAKE YOUR COFFEE?",
+          "fontFamily": "arial",
+          "color": "#000000"
+        },
+        "description": {
+          "text": "Select all that match your tastes",
+          "fontFamily": "arial",
+          "color": "#F3BF79"
+        },
+        "cards": [
+          {
+            "title": "Coffee Maker",
+            "description": "",
+            "icon": "https://i.postimg.cc/3NdKJNVV/Coffee-Maker.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [1, 2, 3]
+          },
+          {
+            "title": "French Press",
+            "description": "",
+            "icon": "https://i.postimg.cc/hGccQpN9/French-Press.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [4, 5, 6]
+          },
+          {
+            "title": "Pour Over",
+            "description": "",
+            "icon": "https://i.postimg.cc/yNjBm0z2/PourOver.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [7, 8, 9]
+          },
+          {
+            "title": "Chemex",
+            "description": "",
+            "icon": "https://i.postimg.cc/nzdFJBRq/Chemex.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [10, 11, 12]
+          },
+          {
+            "title": "Aero Press",
+            "description": "",
+            "icon": "https://i.postimg.cc/zfFDx9Tt/Aero-Press.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [13, 14, 15]
+          },
+          {
+            "title": "Cold Brew",
+            "description": "",
+            "icon": "https://i.postimg.cc/vTkG1MdB/ColdBrew.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [16, 17, 18]
+          },
+          {
+            "title": "Percolator",
+            "description": "",
+            "icon": "https://i.postimg.cc/QtMD0V8C/Percolator.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [19, 20, 21]
+          },
+          {
+            "title": "Espresso Machine",
+            "description": "",
+            "icon": "https://i.postimg.cc/kMpJYNtm/Espresso-Machine.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [22, 23, 24]
+          },
+          {
+            "title": "Moka Pot",
+            "description": "",
+            "icon": "https://i.postimg.cc/W1Ms4QYN/MokaPot.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [25, 26, 27]
+          },
+          {
+            "title": "Refillable Pots",
+            "description": "",
+            "icon": "https://i.postimg.cc/05Fv08L5/Refillable-Pods.jpg",
+            "image": "some-image-url.svg",
+            "contentIds": [28, 29, 30]
+          }
+        ],
+        "footer": {
+          "useIcons": false,
+          "skipButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#ffffff",
+            "color": "#F3BF79",
+            "borderColor": "#ffffff",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          },
+          "nextButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#F3BF79",
+            "color": "#ffffff",
+            "borderColor": "#F3BF79",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          },
+          "backButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#ECE6E4",
+            "color": "#CCC7C6",
+            "borderColor": "#ECE6E4",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          },
+          "restartButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#ECE6E4",
+            "color": "#CCC7C6",
+            "borderColor": "#ECE6E4",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          }
+        }
+      },
+      {
+        "selectionType": "single",
+        "cardType": "textAndDescription",
+        "cardFontColor": "#000000",
+        "cardBackgroundColor": "#ffffff",
+        "showCardBackground": false,
+        "backgroundColor": "#ffffff",
+        "selectedBorderColor": "#000000",
+        "title": {
+          "text": "HOW DO YOU MAKE YOUR COFFEE?",
+          "fontFamily": "arial",
+          "color": "#000000"
+        },
+        "description": {
+          "text": "Select all that match your tastes",
+          "fontFamily": "arial",
+          "color": "#F3BF79"
+        },
+        "cards": [
+          {
+            "title": "Smooth & Creamy",
+            "description": "Lorem ipsum...",
+            "icon": "some-icon-url.svg",
+            "image": "some-image-url.svg",
+            "contentIds": [1, 2, 3]
+          },
+          {
+            "title": "Dark & Heavy",
+            "description": "Lorem ipsum...",
+            "icon": "some-icon-url.svg",
+            "image": "some-image-url.svg",
+            "contentIds": [4, 5, 6]
+          },
+          {
+            "title": "Light & Bitter",
+            "description": "Lorem ipsum...",
+            "icon": "some-icon-url.svg",
+            "image": "some-image-url.svg",
+            "contentIds": [7, 8, 9]
+          },
+          {
+            "title": "Floral & Fruity",
+            "description": "",
+            "icon": "some-icon-url.svg",
+            "image": "some-image-url.svg",
+            "contentIds": [10, 11, 12]
+          }
+        ],
+        "footer": {
+          "useIcons": false,
+          "skipButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#ffffff",
+            "color": "#F3BF79",
+            "borderColor": "#ffffff",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          },
+          "nextButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#F3BF79",
+            "color": "#ffffff",
+            "borderColor": "#F3BF79",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          },
+          "backButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#ECE6E4",
+            "color": "#CCC7C6",
+            "borderColor": "#ECE6E4",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          },
+          "restartButton": {
+            "fontFamily": "arial",
+            "backgroundColor": "#ECE6E4",
+            "color": "#CCC7C6",
+            "borderColor": "#ECE6E4",
+            "useIcon": true,
+            "iconLink": "some-url-to-an-icon"
+          }
+        }
+      }
+    ],
+    "carousel": {
+      "backgroundColor": "#F3BF79",
+      "color": "#ffffff",
+      "fontFamily": "arial",
+      "defaultTitle": "Browse our best sellers",
+      "defaultContent": [
+        {
+          "title": "my favourite dress",
+          "imageUrl": "https://i.postimg.cc/cJyqM2fT/Suggestion-01.jpg",
+          "ctaLink": "https://www.google.com"
+        },
+        {
+          "title": "my second favourite coffee",
+          "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
+          "ctaLink": "https://www.google.com"
+        },
+        {
+          "title": "my next favourite coffee",
+          "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
+          "ctaLink": "https://www.google.com"
+        },
+        {
+          "title": "yet another coffee",
+          "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
+          "ctaLink": "https://www.google.com"
+        },
+        {
+          "title": "coffee coffee coffee",
+          "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
+          "ctaLink": "https://www.google.com"
+        },
+        {
+          "title": "More coffee",
+          "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
+          "ctaLink": "https://www.google.com"
+        }
+      ],
+      "visibleOnOpen": true,
+      "itemBackgroundColor": "#FFFFFF",
+      "itemBackgroundOpacity": 0,
+      "showItemBackground": false
+    }
+  },
+  "launcher": {
+    "visible": true,
+    "placement": "bottom-right",
+    "verticalOffset": 0,
+    "horizontalOffset": 0,
+    "type": "buttonWithTextAndIcon",
+    "useIconToClose": false,
+    "ctaIcon": "question-mark",
+    "ctaText": "Shop Your Taste",
+    "closeIcon": "cross",
+    "closeText": "Close",
+    "color": "#ffffff",
+    "backgroundColor": "#F3BF79",
+    "fontFamily": "arial",
+    "fontSize": 10
+  }
+}
