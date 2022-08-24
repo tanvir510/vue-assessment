@@ -103,33 +103,25 @@
             "fontFamily": "arial",
             "backgroundColor": "#ffffff",
             "color": "#F3BF79",
-            "borderColor": "#ffffff",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#ffffff"
           },
           "nextButton": {
             "fontFamily": "arial",
             "backgroundColor": "#F3BF79",
             "color": "#ffffff",
-            "borderColor": "#F3BF79",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#F3BF79"
           },
           "backButton": {
             "fontFamily": "arial",
             "backgroundColor": "#ECE6E4",
             "color": "#CCC7C6",
-            "borderColor": "#ECE6E4",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#ECE6E4"
           },
           "restartButton": {
             "fontFamily": "arial",
             "backgroundColor": "#ECE6E4",
             "color": "#CCC7C6",
-            "borderColor": "#ECE6E4",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#ECE6E4"
           }
         }
       },
@@ -182,38 +174,29 @@
           }
         ],
         "footer": {
-          "useIcons": false,
           "skipButton": {
             "fontFamily": "arial",
             "backgroundColor": "#ffffff",
             "color": "#F3BF79",
-            "borderColor": "#ffffff",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#ffffff"
           },
           "nextButton": {
             "fontFamily": "arial",
             "backgroundColor": "#F3BF79",
             "color": "#ffffff",
-            "borderColor": "#F3BF79",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#F3BF79"
           },
           "backButton": {
             "fontFamily": "arial",
             "backgroundColor": "#ECE6E4",
             "color": "#CCC7C6",
-            "borderColor": "#ECE6E4",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#ECE6E4"
           },
           "restartButton": {
             "fontFamily": "arial",
             "backgroundColor": "#ECE6E4",
             "color": "#CCC7C6",
-            "borderColor": "#ECE6E4",
-            "useIcon": true,
-            "iconLink": "some-url-to-an-icon"
+            "borderColor": "#ECE6E4"
           }
         }
       }
@@ -262,15 +245,7 @@
     }
   },
   "launcher": {
-    "visible": true,
-    "placement": "bottom-right",
-    "verticalOffset": 0,
-    "horizontalOffset": 0,
-    "type": "buttonWithTextAndIcon",
-    "useIconToClose": false,
-    "ctaIcon": "question-mark",
     "ctaText": "Shop Your Taste",
-    "closeIcon": "cross",
     "closeText": "Close",
     "color": "#ffffff",
     "backgroundColor": "#F3BF79",
