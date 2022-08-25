@@ -1,5 +1,5 @@
 <template>
-  <button class="hello-button" id="hello-button">Hello World</button>
+  <h1 class="welcome-message" id="welcome-message">Welcome Challenger!</h1>
 </template>
 
 <script>
@@ -12,9 +12,14 @@ export default {
 </script>
 
 <style scoped>
-.hello-button {
+.welcome-message {
   position: absolute;
-  right: 10px;
-  bottom: 10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffda30;
+  font-size: 5rem;
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 </style>
