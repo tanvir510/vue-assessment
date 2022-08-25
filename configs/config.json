@@ -3,9 +3,6 @@
     "callToAction": {
       "title": "Shop Now"
     },
-    "paginationPrompt": {
-      "title": "Show More"
-    },
     "pages": [
       {
         "selectionType": "multi",
@@ -30,71 +27,61 @@
             "title": "Coffee Maker",
             "description": "",
             "icon": "https://i.postimg.cc/3NdKJNVV/Coffee-Maker.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [1, 2, 3]
+            "image": null
           },
           {
             "title": "French Press",
             "description": "",
             "icon": "https://i.postimg.cc/hGccQpN9/French-Press.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [4, 5, 6]
+            "image": null
           },
           {
             "title": "Pour Over",
             "description": "",
             "icon": "https://i.postimg.cc/yNjBm0z2/PourOver.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [7, 8, 9]
+            "image": null
           },
           {
             "title": "Chemex",
             "description": "",
             "icon": "https://i.postimg.cc/nzdFJBRq/Chemex.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [10, 11, 12]
+            "image": null
           },
           {
             "title": "Aero Press",
             "description": "",
             "icon": "https://i.postimg.cc/zfFDx9Tt/Aero-Press.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [13, 14, 15]
+            "image": null
           },
           {
             "title": "Cold Brew",
             "description": "",
             "icon": "https://i.postimg.cc/vTkG1MdB/ColdBrew.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [16, 17, 18]
+            "image": null
           },
           {
             "title": "Percolator",
             "description": "",
             "icon": "https://i.postimg.cc/QtMD0V8C/Percolator.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [19, 20, 21]
+            "image": null
           },
           {
             "title": "Espresso Machine",
             "description": "",
             "icon": "https://i.postimg.cc/kMpJYNtm/Espresso-Machine.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [22, 23, 24]
+            "image": null
           },
           {
             "title": "Moka Pot",
             "description": "",
             "icon": "https://i.postimg.cc/W1Ms4QYN/MokaPot.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [25, 26, 27]
+            "image": null
           },
           {
             "title": "Refillable Pots",
             "description": "",
             "icon": "https://i.postimg.cc/05Fv08L5/Refillable-Pods.jpg",
-            "image": "some-image-url.svg",
-            "contentIds": [28, 29, 30]
+            "image": null
           }
         ],
         "footer": {
@@ -146,31 +133,27 @@
         "cards": [
           {
             "title": "Smooth & Creamy",
-            "description": "Lorem ipsum...",
-            "icon": "some-icon-url.svg",
-            "image": "some-image-url.svg",
-            "contentIds": [1, 2, 3]
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus pulvinar nulla urna, quis diam ut gravida lobortis. Ut aliquam penatibus.",
+            "icon": null,
+            "image": null
           },
           {
             "title": "Dark & Heavy",
-            "description": "Lorem ipsum...",
-            "icon": "some-icon-url.svg",
-            "image": "some-image-url.svg",
-            "contentIds": [4, 5, 6]
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus pulvinar nulla urna, quis diam ut gravida lobortis. Ut aliquam penatibus.",
+            "icon": null,
+            "image": null
           },
           {
             "title": "Light & Bitter",
-            "description": "Lorem ipsum...",
-            "icon": "some-icon-url.svg",
-            "image": "some-image-url.svg",
-            "contentIds": [7, 8, 9]
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus pulvinar nulla urna, quis diam ut gravida lobortis. Ut aliquam penatibus.",
+            "icon": null,
+            "image": null
           },
           {
             "title": "Floral & Fruity",
-            "description": "",
-            "icon": "some-icon-url.svg",
-            "image": "some-image-url.svg",
-            "contentIds": [10, 11, 12]
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus pulvinar nulla urna, quis diam ut gravida lobortis. Ut aliquam penatibus.",
+            "icon": null,
+            "image": null
           }
         ],
         "footer": {
@@ -208,32 +191,32 @@
       "defaultTitle": "Browse our best sellers",
       "defaultContent": [
         {
-          "title": "my favourite dress",
+          "title": "Lorem ipsum dolor sit amet, cons...",
           "imageUrl": "https://i.postimg.cc/cJyqM2fT/Suggestion-01.jpg",
           "ctaLink": "https://www.google.com"
         },
         {
-          "title": "my second favourite coffee",
+          "title": "Lorem ipsum dolor sit amet, cons...",
           "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
           "ctaLink": "https://www.google.com"
         },
         {
-          "title": "my next favourite coffee",
+          "title": "Lorem ipsum dolor sit amet, cons...",
           "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
           "ctaLink": "https://www.google.com"
         },
         {
-          "title": "yet another coffee",
+          "title": "Lorem ipsum dolor sit amet, cons...",
           "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
           "ctaLink": "https://www.google.com"
         },
         {
-          "title": "coffee coffee coffee",
+          "title": "Lorem ipsum dolor sit amet, cons...",
           "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
           "ctaLink": "https://www.google.com"
         },
         {
-          "title": "More coffee",
+          "title": "Lorem ipsum dolor sit amet, cons...",
           "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
           "ctaLink": "https://www.google.com"
         }
