@@ -9,9 +9,8 @@
         "cardType": "iconAndText",
         "cardFontColor": "#000000",
         "cardBackgroundColor": "#ffffff",
-        "showCardBackground": false,
         "backgroundColor": "#ffffff",
-        "selectedBorderColor": "#000000",
+        "selectedBorderColor": "#C7A17A",
         "title": {
           "text": "HOW DO YOU MAKE YOUR COFFEE?",
           "fontFamily": "arial",
@@ -20,7 +19,7 @@
         "description": {
           "text": "Select all that match your tastes",
           "fontFamily": "arial",
-          "color": "#F3BF79"
+          "color": "#C7A17A"
         },
         "cards": [
           {
@@ -88,27 +87,27 @@
           "useIcons": false,
           "skipButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#ffffff",
-            "color": "#F3BF79",
-            "borderColor": "#ffffff"
+            "backgroundColor": "#FFFFFF",
+            "color": "#C7A17A",
+            "borderColor": "#FFFFFF"
           },
           "nextButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#F3BF79",
-            "color": "#ffffff",
-            "borderColor": "#F3BF79"
+            "backgroundColor": "#C7A17A",
+            "color": "#FFFFFF",
+            "borderColor": "#C7A17A"
           },
           "backButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#ECE6E4",
+            "backgroundColor": "#C7A17A",
             "color": "#CCC7C6",
-            "borderColor": "#ECE6E4"
+            "borderColor": "#C7A17A"
           },
           "restartButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#ECE6E4",
-            "color": "#CCC7C6",
-            "borderColor": "#ECE6E4"
+            "backgroundColor": "#FFFFFF",
+            "color": "#C7A17A",
+            "borderColor": "#C7A17A"
           }
         }
       },
@@ -116,10 +115,9 @@
         "selectionType": "single",
         "cardType": "textAndDescription",
         "cardFontColor": "#000000",
-        "cardBackgroundColor": "#ffffff",
-        "showCardBackground": false,
-        "backgroundColor": "#ffffff",
-        "selectedBorderColor": "#000000",
+        "cardBackgroundColor": "#FFFFFF",
+        "backgroundColor": "#FFFFFF",
+        "selectedBorderColor": "#C7A17A",
         "title": {
           "text": "HOW DO YOU MAKE YOUR COFFEE?",
           "fontFamily": "arial",
@@ -128,7 +126,7 @@
         "description": {
           "text": "Select all that match your tastes",
           "fontFamily": "arial",
-          "color": "#F3BF79"
+          "color": "#C7A17A"
         },
         "cards": [
           {
@@ -157,36 +155,37 @@
           }
         ],
         "footer": {
+          "useIcons": false,
           "skipButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#ffffff",
-            "color": "#F3BF79",
-            "borderColor": "#ffffff"
+            "backgroundColor": "#FFFFFF",
+            "color": "#C7A17A",
+            "borderColor": "#FFFFFF"
           },
           "nextButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#F3BF79",
-            "color": "#ffffff",
-            "borderColor": "#F3BF79"
+            "backgroundColor": "#C7A17A",
+            "color": "#FFFFFF",
+            "borderColor": "#C7A17A"
           },
           "backButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#ECE6E4",
+            "backgroundColor": "#C7A17A",
             "color": "#CCC7C6",
-            "borderColor": "#ECE6E4"
+            "borderColor": "#C7A17A"
           },
           "restartButton": {
             "fontFamily": "arial",
-            "backgroundColor": "#ECE6E4",
-            "color": "#CCC7C6",
-            "borderColor": "#ECE6E4"
+            "backgroundColor": "#FFFFFF",
+            "color": "#C7A17A",
+            "borderColor": "#C7A17A"
           }
         }
       }
     ],
     "carousel": {
-      "backgroundColor": "#F3BF79",
-      "color": "#ffffff",
+      "backgroundColor": "#C7A17A",
+      "color": "#FFFFFF",
       "fontFamily": "arial",
       "defaultTitle": "Browse our best sellers",
       "defaultContent": [
@@ -220,19 +219,15 @@
           "imageUrl": "https://i.postimg.cc/5twhPg3J/Suggestion-02.jpg",
           "ctaLink": "https://www.google.com"
         }
-      ],
-      "visibleOnOpen": true,
-      "itemBackgroundColor": "#FFFFFF",
-      "itemBackgroundOpacity": 0,
-      "showItemBackground": false
+      ]
     }
   },
   "launcher": {
     "ctaText": "Shop Your Taste",
     "closeText": "Close",
-    "color": "#ffffff",
-    "backgroundColor": "#F3BF79",
+    "color": "#FFFFFF",
+    "backgroundColor": "#C7A17A",
     "fontFamily": "arial",
-    "fontSize": 10
+    "fontSize": 16
   }
 }
