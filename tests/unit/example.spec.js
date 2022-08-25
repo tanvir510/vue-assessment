@@ -1,12 +1,10 @@
 import { shallowMount } from '@vue/test-utils';
-import HelloWorld from '@/components/HelloWorld.vue';
+import App from '@/App.vue';
 
-describe('HelloWorld.vue', () => {
-  it('renders props.msg when passed', () => {
-    const msg = 'new message';
-    const wrapper = shallowMount(HelloWorld, {
-      propsData: { msg },
-    });
-    expect(wrapper.text()).toMatch(msg);
+describe('App.vue', () => {
+  it('renders button correctly', () => {
+    const wrapper = shallowMount(App);
+    const button = wrapper.findComponent('#hello-button');
+    expect(button.exists()).toBe(true);
   });
 });
