@@ -4,7 +4,7 @@ import App from '@/App.vue';
 describe('App.vue', () => {
   it('renders button correctly', () => {
     const wrapper = shallowMount(App);
-    const button = wrapper.findComponent('#hello-button');
-    expect(button.exists()).toBe(true);
+    const welcomeHeader = wrapper.findComponent('#welcome-message');
+    expect(welcomeHeader.exists()).toBe(true);
   });
 });
