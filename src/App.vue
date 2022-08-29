@@ -32,7 +32,7 @@ export default {
     return {
       config,
       launcherStyle,
-      openSidebar: true,
+      openSidebar: false,
     };
   },
 };
